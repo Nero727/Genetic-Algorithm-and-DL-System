@@ -30,6 +30,7 @@ Dieses Repository enthält Skripte und Notebooks, die verschiedene Aufgaben im B
 - **Beschreibung**: 
   - Jupyter Notebook zur Feinabstimmung und Evaluierung von maschinellen Lernmodellen für Handelsstrategien.
   - Enthält Datenvorbereitung, Modellimplementierung und die Berechnung von Strategiemetriken wie der Sharpe Ratio und der Profitabilität.
+  - Wurde für das Training auf den gefilterten Datensatz verwendet
 
 ---
 
