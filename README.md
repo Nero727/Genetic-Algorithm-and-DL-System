@@ -65,11 +65,6 @@ Dieses Repository enthält Skripte und Notebooks, die verschiedene Aufgaben im B
 
 ---
 
-## Nutzungshinweise
-- Stellen Sie sicher, dass alle erforderlichen Bibliotheken und Abhängigkeiten installiert sind, bevor Sie die Skripte oder Notebooks ausführen.
-- Konfigurieren Sie die Datenbankverbindungen in den Skripten (`db_connection_params`), um den Zugriff auf die notwendigen Daten sicherzustellen.
-- Verwenden Sie das Skript `multiprocessing.py`, um Berechnungen parallel auszuführen und die Effizienz zu erhöhen.
-
 ## Voraussetzungen
 - **Programmiersprache**: Python 3.8 oder höher.
 - **Bibliotheken**: `pandas`, `numpy`, `psycopg2`, `matplotlib`, `torch`, `gym`, `tqdm`, `argparse`, u.a.
